@@ -28,5 +28,5 @@ mvn spring-boot:run
 
 ## Screenshots
 
-![Collab Fusion](https://github.com/user-attachments/assets/28ab17f0-57a7-4496-8baf-9513e9289ed5)
+![Screenshot 2024-08-06 202638](https://github.com/user-attachments/assets/b519c1dd-d246-4ef5-a5bd-9b942c8be61e)
 
