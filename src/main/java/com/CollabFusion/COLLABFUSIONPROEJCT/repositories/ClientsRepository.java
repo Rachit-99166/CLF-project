@@ -11,7 +11,7 @@ import org.springframework.stereotype.Repository;
 import com.CollabFusion.COLLABFUSIONPROEJCT.models.Client;
 
 @Repository
-public class ClientsRepository {
+public class ClientsRepository { 
 
     @Autowired
     private JdbcTemplate jdbcTemplate;
