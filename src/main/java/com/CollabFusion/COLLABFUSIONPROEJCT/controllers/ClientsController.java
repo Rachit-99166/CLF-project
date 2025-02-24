@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.CollabFusion.COLLABFUSIONPROEJCT.models.Client;
 import com.CollabFusion.COLLABFUSIONPROEJCT.repositories.ClientsRepository;
 
-@Controller
+@Controller 
 @RequestMapping("/clients")
 public class ClientsController { 
  
